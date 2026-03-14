@@ -28,8 +28,8 @@ I’m drawn to early-stage environments because they reward range, initiative, a
 | Project | Your role & stack | Impact / Demo |
 |---------|-------------------|---------------|
 | Driver Drowsiness Detector | Solo dev • Python (OpenCV, MediaPipe), ML & CV | [Check out my LinkedIn post!](https://www.linkedin.com/posts/pablo-ber%C3%A1stegui-magall%C3%B3n_se-puede-detectar-la-somnolencia-de-un-conductor-activity-7426193563723395072-AfDu) |
-| Optimos Agency | Founder • Python, n8n | Building AI automation solutions for SMEs [optimos.tech](https://www.optimos.tech) |
-| **Build 3** | e.g. Mobile dev • Flutter | [App Store](https://apps.apple.com/…) • 4.8★ (1 k reviews) |
+| Optimos Agency | Founder • Python, n8n | Turning messy SME ops into automated systems. [optimos.tech](https://www.optimos.tech) |
+| Daily-Pill | Builder • Product concept • AI/content workflows | Daily micro-learning with "pills" of knowledge to replace doomscrolling [Daily-Pill](https://daily-pill.vercel.app/) |
 
 > *Tip: keep this zero-effort for reviewers—live links over videos; videos over downloads.*
 
