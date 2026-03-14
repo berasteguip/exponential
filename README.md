@@ -31,12 +31,10 @@ I’m drawn to early-stage environments because they reward range, initiative, a
 | Optimos Agency | Founder • Python, n8n | Turning messy SME ops into automated systems. [optimos.tech](https://www.optimos.tech) |
 | Daily-Pill | Builder • Product concept • AI/content workflows | Daily micro-learning with "pills" of knowledge to replace doomscrolling [Daily-Pill](https://daily-pill.vercel.app/) |
 
-### Experience (TL;DR)
-
 ## Experience (TL;DR)
 
 - **Optimos Agency (September 2025-)**: Entrepreneurship project; building AI-driven automation solutions for SMEs; Python, n8n and LLMs (GPT, Gemini, etc.)
-- **ML datathons & technical team projects (May 2025)**: Hands-on experience solving applied problems through collaborative model-building; Python (sklearn, numpy, pandas, etc.)
+- **ML team datathon (May 2025)**: Hands-on experience solving applied problems through collaborative model-building; Python (sklearn, numpy, pandas, etc.)
 - **Abancay Summer Camp (2025)**: Summer camp counselor; group coordination, logistics, and responsibility in fast-paced environments.  
 - **Youth mentoring & volunteering**: Catechist for 3+ years and volunteer with people with Down syndrome through Fe y Luz.
 
@@ -56,12 +54,12 @@ I’m drawn to early-stage environments because they reward range, initiative, a
 
 ### Some personal stuff
 
-Feel free to check out [this page](https://gulipad.notion.site/This-is-Guli-fbf0f0b4eec54b868a7d92933ad0383a?pvs=74) for inspiration
-
-- Hobbies, sports, creative outlets.  
-- Values / worldview.  
-- Fun facts or personal links (blog, portfolio, socials).
+- Born in Madrid (2005).
+- Catholic; try to live those values quietly in unlikely places. **Humbleness, Purpose and Simplicity**.
+- Classical pianist, also play the guitar and _cajón_. I often sing and perform live.
+- Teenage fun fact: posted rap instrumentals I produced on Instagram @berasbeats
+- Into soccer, padel, and skiing. Also love to cook at home.
+- Curious about philosophy, culture, and big ideas.
 
 ### My vision
-
-Why you want the Exponential Fellowship, where you see yourself in 5 years, and how building in the US fits the plan.
+Over the next 5 years I want to immerse myself in the US startup ecosystem, building **THE** AI product (if such thing exists) and learning from the sharpest of the sharpest. Long term, I want to found a high-impact AI company that bridges Spanish technical talent with the scale and ambition of the US tech ecosystem.
