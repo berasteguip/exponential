@@ -11,11 +11,11 @@
 
 ## About Pablo
 
-I’m a Madrid-based builder in training, with a strong mathematical foundation and a growing obsession with using software and AI to solve real problems. I’m studying Mathematical Engineering and AI at ICAI, where I’ve been especially drawn to the parts of technology that let you turn abstract models into useful systems through machine learning, computer vision, automation, and software that solves concrete problems.
+Madrid-based builder in training. I study Mathematical Engineering + AI at ICAI, with a strong interest in ML, CV, automation, and software that solves real problems.
 
-What excites me most is the moment when a technical idea stops being just an analysis or class project and starts behaving like a real product. That’s the thread behind most of what I’ve built so far: a driver drowsiness detector, an urban GPS navigator, academic prediction models, and more recently AI automation systems for SMEs through Optimos Agency.
+Most of what I build follows the same thread: pushing technical ideas closer to product. So far that includes a driver drowsiness detector, a Madrid GPS navigator, academic prediction models, and AI automation systems for SMEs through Optimos Agency.
 
-I’m especially interested in early-stage environments because they reward range, initiative, and speed of learning. Long term, I want to become the kind of technical builder who can move comfortably between deep problem-solving, product thinking, and ambitious execution. Hopefully, within a few years, I can start my own company building an AI-powered product that people genuinely want.
+I’m drawn to early-stage environments because they reward range, initiative, and speed. Long term, I want to become a technical builder who can bridge deep problem-solving, product, and execution—and eventually start an AI company.
 
 ### Main Achievements
 
