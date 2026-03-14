@@ -31,23 +31,24 @@ I’m drawn to early-stage environments because they reward range, initiative, a
 | Optimos Agency | Founder • Python, n8n | Turning messy SME ops into automated systems. [optimos.tech](https://www.optimos.tech) |
 | Daily-Pill | Builder • Product concept • AI/content workflows | Daily micro-learning with "pills" of knowledge to replace doomscrolling [Daily-Pill](https://daily-pill.vercel.app/) |
 
-> *Tip: keep this zero-effort for reviewers—live links over videos; videos over downloads.*
-
 ### Experience (TL;DR)
 
-- **Role / Company** – *Date range.* One-line impact description, notable tech.  
-- **Role / Company** – …  
-- **Hackathons / OSS / Volunteering** – …
+## Experience (TL;DR)
+
+- **Optimos Agency (September 2025-)**: Entrepreneurship project; building AI-driven automation solutions for SMEs; Python, n8n and LLMs (GPT, Gemini, etc.)
+- **ML datathons & technical team projects (May 2025)**: Hands-on experience solving applied problems through collaborative model-building; Python (sklearn, numpy, pandas, etc.)
+- **Abancay Summer Camp (2025)**: Summer camp counselor; group coordination, logistics, and responsibility in fast-paced environments.  
+- **Youth mentoring & volunteering**: Catechist for 3+ years and volunteer with people with Down syndrome through Fe y Luz.
 
 ---
 
 ## How I Work
 
-- **Gets me pumped:** <!-- shipping fast, kind builders, user delight … -->
-- **Disappoints me:** <!-- apathy, big egos, over-engineering … -->
-- **Strengths:** <!-- rapid prototyping, clear docs, … -->
-- **Improvement points:** <!-- candor, delegation, … -->
-- **Known behaviours / comms style:** <!-- emoji-heavy 🙌, async-first, inbox-zero … -->
+- **Gets me pumped:** - Building creative things that actually create value, meeting sharp people in tech/startup world and validating ideas through real user pull
+- **Disappoints me:** prestige-driven big-corporate career paths, lack of responsibility due to age and slow, bureaucratic, low-agency environments
+- **Strengths:** high agency and analytical rigor, algorithmic mindset, wide-ranging curiosity and fast learning
+- **Improvement points:** over-ambitious for the timeframe, can split focus across too many ideas, improving prioritization skills
+- **Known behaviours / comms style:** obsessive about quality and format, very organized in systems and planning, strong eye for aesthetics and presentation
 
 ---
 
