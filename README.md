@@ -1,7 +1,3 @@
-*Hey there, Exponential team here. This document is a template for you to create the perfect Exponential showcase doc. We use this doc (among other things) to share your profile with partner startups. Feel free to tweak and make your own, this is just our base recommendation. You can check out a full example [here](https://github.com/gulipad/exponential).*
-
-**⚠️ Important:** in order for the doc to automatically show up in your `signal.goexponential.org` profile page, you must place it in a `README.md` file under a repo called `exponential` within your Github profile.
-
 **Best with:** Python • Applied AI / ML • AI Automation Workflows • Algorithmic Problem Solving • Computer Vision • Early-stage technical building
 **Familiar with:** NLP • Deep Learning • Robotics • SQL / MongoDB / Neo4j • AWS • Django • R / C# / MATLAB
 
@@ -15,13 +11,13 @@ Madrid-based builder in training. I study Mathematical Engineering + AI at ICAI,
 
 Most of what I build follows the same thread: pushing technical ideas closer to product. So far that includes a driver drowsiness detector, a Madrid GPS navigator, academic prediction models, and AI automation systems for SMEs through Optimos Agency.
 
-I’m drawn to early-stage environments because they reward range, initiative, and speed. Long term, I want to become a technical builder who can bridge deep problem-solving, product, and execution—and eventually start an AI company.
+I’m drawn to early-stage environments because they reward range, initiative, and speed. Long term, I want to become a technical builder who can bridge deep problem-solving, product and execution, and eventually start an AI company.
 
 ### Main Achievements
 
 - **Top 12% at ICAI.** Studying Math & AI with practical exposure to ML, computer vision, NLP, robotics, and algorithmic systems.
-- **Driver Drowsiness Detector.** Built an applied computer vision system to prevent car accidents caused by drowsy drivers.
-- **Optimos.** Currently building AI automation solutions for SMEs through workflows, integrations, and agent-based systems
+- **Driver Drowsiness Detector.** Built an applied computer vision system to prevent car accidents caused by driver drowsiness.
+- **Optimos.** Currently building AI automation solutions for SMEs through workflows, integrations, and agent-based systems.
 
 ### Most-Prideful Builds
 
@@ -29,12 +25,12 @@ I’m drawn to early-stage environments because they reward range, initiative, a
 |---------|-------------------|---------------|
 | Driver Drowsiness Detector | Solo dev • Python (OpenCV, MediaPipe), ML & CV | [Check out my LinkedIn post!](https://www.linkedin.com/posts/pablo-ber%C3%A1stegui-magall%C3%B3n_se-puede-detectar-la-somnolencia-de-un-conductor-activity-7426193563723395072-AfDu) |
 | Optimos Agency | Founder • Python, n8n | Turning messy SME ops into automated systems. [optimos.tech](https://www.optimos.tech) |
-| Daily-Pill | Builder • Product concept • AI/content workflows | Daily micro-learning with "pills" of knowledge to replace doomscrolling [Daily-Pill](https://daily-pill.vercel.app/) |
+| Daily-Pill | Builder • Product concept • AI/content workflows | Daily micro-learning through short knowledge "pills" to replace doomscrolling [Daily-Pill](https://daily-pill.vercel.app/) |
 
 ## Experience (TL;DR)
 
-- **Optimos Agency (September 2025-)**: Entrepreneurship project; building AI-driven automation solutions for SMEs; Python, n8n and LLMs (GPT, Gemini, etc.)
-- **ML team datathon (May 2025)**: Hands-on experience solving applied problems through collaborative model-building; Python (sklearn, numpy, pandas, etc.)
+- **Optimos Agency (September 2025-present)**: Entrepreneurship project; building AI-driven automation solutions for SMEs; Python, n8n and LLMs (GPT, Gemini, etc.)
+- **ML Team Datathon (May 2025)**: Hands-on experience solving applied problems through collaborative model-building; Python (sklearn, numpy, pandas, etc.)
 - **Abancay Summer Camp (2025)**: Summer camp counselor; group coordination, logistics, and responsibility in fast-paced environments.  
 - **Youth mentoring & volunteering**: Catechist for 3+ years and volunteer with people with Down syndrome through Fe y Luz.
 
@@ -55,11 +51,11 @@ I’m drawn to early-stage environments because they reward range, initiative, a
 ### Some personal stuff
 
 - Born in Madrid (2005).
-- Catholic; try to live those values quietly in unlikely places. **Humbleness, Purpose and Simplicity**.
-- Classical pianist, also play the guitar and _cajón_. I often sing and perform live.
+- Catholic; try to live those values quietly in unlikely places. **Humility, Purpose, Simplicity**.
+- Classical pianist, also sing and play guitar and _cajón_. I often sing and perform live.
 - Teenage fun fact: posted rap instrumentals I produced on Instagram @berasbeats
 - Into soccer, padel, and skiing. Also love to cook at home.
 - Curious about philosophy, culture, and big ideas.
 
 ### My vision
-Over the next 5 years I want to immerse myself in the US startup ecosystem, building **THE** AI product (if such thing exists) and learning from the sharpest of the sharpest. Long term, I want to found a high-impact AI company that bridges Spanish technical talent with the scale and ambition of the US tech ecosystem.
+Over the next 5 years I want to immerse myself in the US startup ecosystem, building great AI products, learning from some of the sharpest people. Long term, I want to found a high-impact AI company that bridges Spanish technical talent with the scale and ambition of the US tech ecosystem.
