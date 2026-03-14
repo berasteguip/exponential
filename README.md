@@ -27,8 +27,8 @@ I’m drawn to early-stage environments because they reward range, initiative, a
 
 | Project | Your role & stack | Impact / Demo |
 |---------|-------------------|---------------|
-| **Build 1** | e.g. Solo dev • TypeScript + Next.js | <https://demo-link.com> — 2k MAU, PH #3 Product of the Day |
-| **Build 2** | e.g. Backend lead • Go + gRPC | Saved 30 % infra cost for 40 clients |
+| Driver Drowsiness Detector | Solo dev • Python (OpenCV, MediaPipe), ML & CV | [Check out my LinkedIn post!](https://www.linkedin.com/posts/pablo-ber%C3%A1stegui-magall%C3%B3n_se-puede-detectar-la-somnolencia-de-un-conductor-activity-7426193563723395072-AfDu) |
+| Optimos Agency | Founder • Python, n8n | Building AI automation solutions for SMEs [optimos.tech](https://optimos.tech) |
 | **Build 3** | e.g. Mobile dev • Flutter | [App Store](https://apps.apple.com/…) • 4.8★ (1 k reviews) |
 
 > *Tip: keep this zero-effort for reviewers—live links over videos; videos over downloads.*
